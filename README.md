@@ -77,7 +77,8 @@ Initial model: **Logistic Regression** (Baseline)
 - Feature importance visualization  
 - Deployment (Optional)  
 
----## 📜 License
+---
+## 📜 License
 
 This project is licensed under the MIT License.
 
